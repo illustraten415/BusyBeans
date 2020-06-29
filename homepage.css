@@ -1,0 +1,18 @@
+h1 {
+   font-family: "Playfair Display", serif;
+
+}
+
+p {
+  font-family:
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+}
+
+body {
+    line-height: 1.6;
+    font-size:18px;
+    color: #444;
+}
